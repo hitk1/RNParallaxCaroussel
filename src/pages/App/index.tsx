@@ -76,9 +76,7 @@ const styles = StyleSheet.create({
     itemContainer: {
         width,
         alignItems: 'center',
-        justifyContent: 'center',
-        alignSelf: 'flex-start',
-        marginTop: height * 0.05
+        justifyContent: 'center'
     },
     photoContainer: {
         width: ITEM_WIDTH,
